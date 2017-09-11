@@ -1,0 +1,146 @@
+/* Add a dark background color with a little bit see-through */
+.navbar {
+	margin-bottom: 0;
+	background-color: #2d2d30;
+	border: 0;
+	font-size: 11px !important;
+	letter-spacing: 4px;
+	opacity: 0.9;
+}
+/* Add a gray color to all navbar links */
+.navbar li a, .navbar .navbar-brand {
+	color: #d5d5d5 !important;
+}
+/* On hover, the links will turn white */
+.navbar-nav li a:hover {
+	color: #fff !important;
+}
+
+/* The active link */
+.navbar-nav li.active a {
+	color: #fff !important;
+	background-color:#29292c !important;
+}
+/* Remove border color from the collapsible button */
+.navbar-default .navbar-toggle {
+	border-color: transparent;
+}
+/* to separate the sections*/
+/*.container {*/
+	/*padding: 20px 4px;*/
+/*}*/
+
+.carousel-text {
+	color: #3eea74;
+	position: absolute;
+	top: 35%;
+	text-align: center;
+	align-content: center;
+	float: none;
+	margin: auto;
+	right: 27%;
+	background-color: #000;
+	opacity: 0.6;
+}
+
+/*
+for portfolio images
+ */
+.thumbnail {
+	float: none;
+}
+/*
+h2 for about me and portfolio titles
+ */
+#myCarousel .h2 {
+	font-size: 6rem;
+	color: #3eea74;
+}
+.carouselp {
+	font-size: 3rem;
+	font-family: 'Lobster', cursive;
+}
+/*
+this is for all images
+ */
+img {
+	width: 100%;
+	padding-bottom: 15PX
+}
+/*
+subtitle for about me
+ */
+.title {
+	font-size: 3rem;
+}
+body {
+	background-color: #aee4bd;
+}
+p {
+	font-size: 3rem;
+
+}
+h1 {
+	font-size: 5rem;
+	font-family: 'Playfair Display', serif;
+}
+.fa {
+	font-size: large;
+}
+.social-links {
+	display: block;
+	color: black;
+	font-size: 21px;
+	width: auto;
+	height: 50px;
+}
+
+/* Add a dark background color to the footer */
+footer {
+	background-color: #2d2d30;
+	color: #f5f5f5;
+	padding: 32px;
+	width:100%;
+	bottom: 0;
+	right:0;
+	left: 0;
+}
+
+footer a {
+	color: #f5f5f5;
+}
+
+footer a:hover {
+	color: #777;
+	text-decoration: none;
+}
+.main{
+	padding: 7rem;
+	font-size: 6rem;
+}
+.portfolio {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.panel-default{
+	color: #3eea74;
+	background-color: #000;
+	opacity: 0.6;
+}
+h3 {
+	font-family: 'Playfair Display', serif;
+	font-size: 5rem;
+}
+.text-left {
+
+	text-align: left;
+}
+.text-right {
+	text-align: right;
+}
+.fade-up {
+	padding-top: 140px
+}
+.g-recaptcha {
+	text-align: right;
+}
