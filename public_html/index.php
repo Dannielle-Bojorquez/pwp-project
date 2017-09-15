@@ -125,7 +125,7 @@
 					<h2 class="main">Portfolio</h2>
 					<div class="row">
 						<div class="col-md-3">
-							<img src="assets/images/pwp01.jpg" alt="img filler" class="img-responsive thumbnail">
+							<img src="assets/images/foodquisition.jpg" alt="foodquisition" class="img-responsive thumbnail">
 						</div>
 						<div class="col-md-9 text-left">
 							<h3>Foodquisition</h3>
