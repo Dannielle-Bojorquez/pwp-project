@@ -144,7 +144,7 @@
 					</div>
 					<div class="row">
 						<div class="col-md-3">
-							<img src="assets/images/pwp03.jpg" alt="img filler" class="img-responsive thumbnail">
+							<img src="assets/images/lotus.jpg" alt="img filler" class="img-responsive thumbnail">
 						</div>
 						<div class="col-md-9 text-left">
 							<h3>Project Title</h3>
