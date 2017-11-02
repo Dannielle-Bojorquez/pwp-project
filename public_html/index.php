@@ -34,7 +34,55 @@
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<title>Digital Lotus</title>
+		<title>Team Beauty ABQ</title>
+<!--		<head>-->
+<!--			<meta charset="utf-8">-->
+<!--			<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+<!--			<meta name="viewport" content="width=device-width, initial-scale=1">-->
+<!---->
+<!---->
+<!--			<!-- Latest compiled and minified CSS -->-->
+<!--			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
+<!---->
+<!--			<!-- Optional theme -->-->
+<!--			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
+<!---->
+<!---->
+<!--			<!--custom css goes here-->-->
+<!--			<link rel="stylesheet" href="assets/css/style.css" type="text/css">-->
+<!--			<link href="https://fonts.googleapis.com/css?family=Itim|Patrick+Hand|Short+Stack" rel="stylesheet">-->
+<!---->
+<!--			<!-- Google fonts -->-->
+<!--			<link href="https://fonts.googleapis.com/css?family=Lobster|Playfair+Display" rel="stylesheet">-->
+<!---->
+<!--			<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->-->
+<!--			<!--[if lt IE 9]>-->
+<!--			<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>-->
+<!--			<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
+<!--			<![endif]-->-->
+<!---->
+<!--			<!-- jQuery - required for Bootstrap Components -->-->
+<!--			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>-->
+<!---->
+<!--			<!-- jQuery Form, Additional Methods, Validate -->-->
+<!--			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>-->
+<!--			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>-->
+<!--			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>-->
+<!---->
+<!---->
+<!--			<!--javascript links-->-->
+<!--			<script type="text/javascript" src="js/script.js"></script>-->
+<!--			<script type="text/javascript" src="assets/js/jquery-validate.js"></script>-->
+<!---->
+<!--			<!-----------Google recaptcha---------------->-->
+<!--			<script src='https://www.google.com/recaptcha/api.js'></script>-->
+<!---->
+<!--			<!-- Latest compiled and minified JavaScript -->-->
+<!--			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
+<!---->
+<!--			<title>Dannielle Bojorquez</title>-->
+<!---->
+<!--		</head>-->
 	</head>
 
 	<body>
@@ -46,7 +94,7 @@
 				</div>
 				<ul class="nav navbar-nav">
 					<li><a href="#myPage">HOME</a></li>
-					<li><a href="#about me">ABOUT ME</a></li>
+					<li><a href="#about me">ABOUT US</a></li>
 					<li><a href="#portfolio">PORTFOLIO</a></li>
 					<li><a href="#contact">CONTACT</a></li>
 				</ul>
@@ -78,7 +126,7 @@
 
 						<!--head tag in the carousel-->
 						<div class="carousel-text">
-							<h1>DANNIELLE BOJORQUEZ</h1>
+							<h1>TEAM BEAUTY ABQ</h1>
 							<p class="carouselp"><em>Web Developer</em></p>
 						</div>
 					</div>
@@ -100,14 +148,18 @@
 		<section id="about me">
 			<div class="container-fluid text-center">
 				<div class="title">
-					<h2 class="main">About Me</h2>
+					<h2 class="main">About Us</h2>
 				</div>
 				<div class="row">
 					<div class="col-sm-5">
 						<img src="assets/images/standing.jpg" alt="Random Name" class="img-responsive">
 					</div>
 					<div class="col-sm-7">
-						<p> Hello, I am Dannielle,<br>Web Development is my way of helping to build your website so that it is functional and user friendly but attractive at the same time. I add a personal touch to your product and make sure that is eye-catching and easy to use. I aim to bring across your message and identity in the most creative way. </p>
+						<p> Team Beauty was inspired by a group of women who joined forces to get out of the slump they were living in and motivate each other to get physical results, motivation & confidence.
+
+							We are all about enhancing beauty from the inside out: mind, body and soul. We are Women empowering each other to find the true meaning of Inner Beauty.
+
+							Team Beauty is powerful & unique. We have partnered up with Herbalife Nutrition to create effective results, we come together as a support group to make it fun & show you the steps to create a healthy active lifestyle. Mind. Body. Soul. BECOME THE EMPOWERED WOMAN! </p>
 					</div>
 				</div>
 			</div>
